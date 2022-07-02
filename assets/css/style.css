@@ -744,7 +744,7 @@ h3:hover {
   height: 185px;
   border-radius: 200%;
   position: absolute;
-  background: url(https://tyomht.github.io/ghost/assets/images/Sun.png) top center no-repeat;
+  background: url("../images/Sun.png") top center no-repeat;
   animation: spin 8s linear infinite;
   animation-play-state: running;
   transition: 0.3s filter;
