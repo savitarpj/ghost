@@ -1,3 +1,4 @@
+/*
 let vertexCount=10000*4
 let depth=0
 let fontName='Arial,Helvetica'
@@ -163,3 +164,5 @@ textGeneration()},1100)}
 textGeneration()
 for(let i=0;i<vertexCount;i++){dVertices.push(0)}
 render()
+
+*/
